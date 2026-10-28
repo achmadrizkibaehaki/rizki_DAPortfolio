@@ -22,20 +22,15 @@
 </p>
 
 ## 🚀 About Me
-
-I'm a Statistics graduate with a strong interest in data analytics, business intelligence, and data-driven decision-making.
-
-I enjoy transforming raw and complex datasets into meaningful insights that help organizations understand problems, evaluate performance, and make better decisions.
-
-My experience includes data cleaning, exploratory data analysis, statistical modeling, dashboard reporting, and automating repetitive data-processing tasks using Python and spreadsheets.
-
-I'm particularly interested in applying analytical thinking to business strategy, financial services, and operational improvement.
-
+<p align="justify">
+I'm a Statistics graduate with a strong interest in data analytics, business intelligence, and data-driven decision-making. I enjoy transforming raw and complex datasets into meaningful insights that help organizations understand problems, evaluate performance, and make better decisions. My experience includes data cleaning, exploratory data analysis, statistical modeling, dashboard reporting, and automating repetitive data-processing tasks using Python and spreadsheets.I'm particularly interested in applying analytical thinking to business strategy, financial services, and operational improvement.
+  
 - 🎓 Background: Statistics
 - 📊 Interests: Data Analytics, Business Intelligence & Statistical Analysis
 - 🛠️ Tools: Excel, SQL, Python, R & Power BI (Basic)
 - 📈 Focus: Data-driven insights, reporting & process automation
 - 🌱 Currently exploring: Business Analytics and Data Visualization
+</p>
 
 ## 💼 Featured Projects
 
