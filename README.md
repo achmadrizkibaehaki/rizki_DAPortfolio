@@ -1,62 +1,105 @@
-## Hi there, I'm Achmad Rizki Baehaki 👋
+# Hi there, I'm Achmad Rizki Baehaki 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Statistics+Graduate;Aspiring+Data+Analyst;Business+Intelligence+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/achmadrizkibaehaki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:achmadrizkibaehaki@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6281216451539" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 About Me
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I'm a Statistics graduate with a strong interest in data analytics, business intelligence, and data-driven decision-making.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I enjoy transforming raw and complex datasets into meaningful insights that help organizations understand problems, evaluate performance, and make better decisions.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+My experience includes data cleaning, exploratory data analysis, statistical modeling, dashboard reporting, and automating repetitive data-processing tasks using Python and spreadsheets.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+I'm particularly interested in applying analytical thinking to business strategy, financial services, and operational improvement.
 
-## 🌱 Currently Learning 
+- 🎓 Background: Statistics
+- 📊 Interests: Data Analytics, Business Intelligence & Statistical Analysis
+- 🛠️ Tools: Excel, SQL, Python, R & Power BI (Basic)
+- 📈 Focus: Data-driven insights, reporting & process automation
+- 🌱 Currently exploring: Business Analytics and Data Visualization
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 💼 Featured Projects
 
-## 🛠️ Technical Skillset
+### 1. Roblox Student Database Automation
+- Consolidated 16,000+ records from 15+ spreadsheets and 300+ worksheets into a structured master database.
+- Used Python to automate data cleaning, consolidation, and deduplication.
+- Reduced a manual process from approximately 3 days to 2 hours.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+**Tools:** Python, Pandas, Excel, Google Sheets
 
-#### Data Analysis & Visualization
+### 2. Intermittent Rainfall Forecasting
+- Analyzed daily rainfall data from Kemayoran Meteorological Station, Jakarta.
+- Applied Croston, Syntetos–Boylan Approximation (SBA), and Teunter–Syntetos–Babai (TSB) forecasting methods.
+- Evaluated model performance using MAE and RMSE to identify the most suitable forecasting approach.
+
+**Tools:** Python/R, Statistical Analysis, Time Series Forecasting
+
+### 3. Data Analysis Portfolio
+- Developing analytical projects focused on data cleaning, exploratory analysis, visualization, and actionable business insights.
+
+**Tools:** Excel, SQL, Python, Power BI
+
+## 🛠️ Technical Skills
+
+### Data Analysis & Visualization
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Basic-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-#### Programming & Automation
+### Programming & Statistical Analysis
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+### Core Competencies
+
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis & Forecasting
+- Data Consolidation & Automation
+- KPI Monitoring & Reporting
+- Data-Driven Problem Solving
+
+## 📚 Currently Learning
+
+- Advanced SQL for data analysis
+- Dashboard development and data visualization
+- Business intelligence and analytics
+- Python automation for data workflows
+
+## 🌐 Portfolio
+
+Explore my projects and analytical work:
+
+**[Visit My Portfolio Website](https://YOUR-USERNAME.github.io/)**
+
+---
+
+<p align="center">
+  <i>"Turning data into insights, and insights into better decisions."</i>
 </p>
